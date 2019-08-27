@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bnv_home"
+        android:title="@string/btn_home"
+        android:icon="@drawable/btn_home"/>
+
+    <item
+        android:id="@+id/bnv_network"
+        android:title="@string/btn_network"
+        android:icon="@drawable/btn_network"/>
+
+    <item
+        android:id="@+id/bnv_account"
+        android:title="@string/btn_akun"
+        android:icon="@drawable/btn_akun"/>
+
+    <item
+        android:id="@+id/bnv_logout"
+        android:title="@string/btn_logout"
+        android:icon="@drawable/btn_logout"/>
+
+</menu>
